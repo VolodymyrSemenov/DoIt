@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-
 @main
 struct DoItApp: App {
     @StateObject var Tasks = TaskStorage()
